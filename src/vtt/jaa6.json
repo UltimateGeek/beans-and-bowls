@@ -1,0 +1,1046 @@
+{
+  "_meta": {
+    "version": 1,
+    "info": {
+      "name": "Beans & Bowls",
+      "image": "",
+      "rules": "",
+      "bgg": "",
+      "year": "2021",
+      "mode": "vs",
+      "time": "15",
+      "players": "1",
+      "language": "US",
+      "variant": "",
+      "attribution": "Milwaukee Mennonite Church"
+    }
+  },
+  "label_heading":
+  {
+    "id": "label_heading",
+    "text": "Milwaukee Mennonite Church\nBeans & Bowls 2021",
+    "type": "label",
+    "x": 505,
+    "y": 300,
+    "z": 500,
+    "width": 500,
+    "height": 100,
+    "css": "text-align: center; font-size: 36px",
+    "editable": false
+  },
+  "bowl_1":
+  {
+    "id": "bowl_1",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 30,
+    "y": -45,
+    "width": 300,
+    "height": 300
+  },
+  "holder_1": {
+    "id": "holder_1",
+    "parent": "bowl_1",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_2":
+  {
+    "id": "bowl_2",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 405,
+    "y": -45,
+    "width": 300,
+    "height": 300
+  },
+  "holder_2": {
+    "id": "holder_2",
+    "parent": "bowl_2",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_3":
+  {
+    "id": "bowl_3",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 780,
+    "y": -45,
+    "width": 300,
+    "height": 300
+  },
+  "holder_3": {
+    "id": "holder_3",
+    "parent": "bowl_3",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_4":
+  {
+    "id": "bowl_4",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 1155,
+    "y": -45,
+    "width": 300,
+    "height": 300
+  },
+  "holder_4": {
+    "id": "holder_4",
+    "parent": "bowl_4",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_5":
+  {
+    "id": "bowl_5",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 30,
+    "y": 194,
+    "width": 300,
+    "height": 300
+  },
+  "holder_5": {
+    "id": "holder_5",
+    "parent": "bowl_5",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_6":
+  {
+    "id": "bowl_6",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 30,
+    "y": 436,
+    "width": 300,
+    "height": 300
+  },
+  "holder_6": {
+    "id": "holder_6",
+    "parent": "bowl_6",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_7":
+  {
+    "id": "bowl_7",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 30,
+    "y": 676,
+    "width": 300,
+    "height": 300
+  },
+  "holder_7": {
+    "id": "holder_7",
+    "parent": "bowl_7",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_8":
+  {
+    "id": "bowl_8",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 405,
+    "y": 676,
+    "width": 300,
+    "height": 300
+  },
+  "holder_8": {
+    "id": "holder_8",
+    "parent": "bowl_8",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_9":
+  {
+    "id": "bowl_9",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 780,
+    "y": 676,
+    "width": 300,
+    "height": 300
+  },
+  "holder_9": {
+    "id": "holder_9",
+    "parent": "bowl_9",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_10":
+  {
+    "id": "bowl_10",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 1155,
+    "y": 676,
+    "width": 300,
+    "height": 300
+  },
+  "holder_10": {
+    "id": "holder_10",
+    "parent": "bowl_10",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_11":
+  {
+    "id": "bowl_11",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 1155,
+    "y": 436,
+    "width": 300,
+    "height": 300
+  },
+  "holder_11": {
+    "id": "holder_11",
+    "parent": "bowl_11",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+  "bowl_12":
+  {
+    "id": "bowl_12",
+    "image": "https://static.thenounproject.com/png/373909-200.png",
+    "movable": false,
+    "layer": 0,
+    "z": 0,
+    "x": 1155,
+    "y": 194,
+    "width": 300,
+    "height": 300
+  },
+  "holder_12": {
+    "id": "holder_12",
+    "parent": "bowl_12",
+    "type": "holder",
+    "x": 60,
+    "y": 125,
+    "z": 6,
+    "width": 180,
+    "height": 50,
+    "layer": 1,
+    "dropOffsetX": 4,
+    "dropOffsetY": 15,
+    "stackOffsetX": 20,
+    "stackOffsetY": 0,
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "css": "border-radius: 100px;",
+    "classes": "transparent"
+  },
+
+  "holder-cubes": {
+    "type": "holder",
+    "x": 660,
+    "y": 460,
+    "z": 11983,
+    "id": "holder-cubes",
+    "width": 200,
+    "height": 51,
+    "movable": true,
+    "css": "background-color: #4C5FEA;",
+    "dropTarget": {
+      "none": "nope"
+    }
+  },
+  "holder-cubes_1": {
+    "type": "holder",
+    "x": 5,
+    "y": 5,
+    "z": 11946,
+    "id": "holder-cubes_1",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_2": {
+    "type": "holder",
+    "x": 30,
+    "y": 5,
+    "z": 11946,
+    "id": "holder-cubes_2",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_3": {
+    "type": "holder",
+    "x": 55,
+    "y": 5,
+    "z": 11946,
+    "id": "holder-cubes_3",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_4": {
+    "type": "holder",
+    "x": 80,
+    "y": 5,
+    "z": 11946,
+    "id": "holder-cubes_4",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_5": {
+    "type": "holder",
+    "x": 105,
+    "y": 5,
+    "z": 11946,
+    "id": "holder-cubes_5",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_6": {
+    "type": "holder",
+    "x": 130,
+    "y": 5,
+    "z": 11946,
+    "id": "holder-cubes_6",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_7": {
+    "type": "holder",
+    "x": 155,
+    "y": 5,
+    "z": 11946,
+    "id": "holder-cubes_7",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_8": {
+    "type": "holder",
+    "x": 180,
+    "y": 5,
+    "z": 11946,
+    "id": "holder-cubes_8",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_9": {
+    "type": "holder",
+    "x": 5,
+    "y": 30,
+    "z": 11946,
+    "id": "holder-cubes_9",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_10": {
+    "type": "holder",
+    "x": 30,
+    "y": 30,
+    "z": 11946,
+    "id": "holder-cubes_10",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_11": {
+    "type": "holder",
+    "x": 55,
+    "y": 30,
+    "z": 11946,
+    "id": "holder-cubes_11",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_12": {
+    "type": "holder",
+    "x": 80,
+    "y": 30,
+    "z": 11946,
+    "id": "holder-cubes_12",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_13": {
+    "type": "holder",
+    "x": 105,
+    "y": 30,
+    "z": 11946,
+    "id": "holder-cubes_13",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_14": {
+    "type": "holder",
+    "x": 130,
+    "y": 30,
+    "z": 11946,
+    "id": "holder-cubes_14",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_15": {
+    "type": "holder",
+    "x": 155,
+    "y": 30,
+    "z": 11946,
+    "id": "holder-cubes_15",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "holder-cubes_16": {
+    "type": "holder",
+    "x": 180,
+    "y": 30,
+    "z": 11946,
+    "id": "holder-cubes_16",
+    "width": 15,
+    "height": 15,
+    "css": "border-radius: 30px;",
+    "parent": "holder-cubes",
+    "dropTarget": {
+      "passenger": "yes"
+    },
+    "dropOffsetX": -5,
+    "dropOffsetY": -5
+  },
+  "text-cube_1": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_1",
+    "parent": "holder-cubes_1",
+    "passenger": "yes"
+  },
+  "text-cube_2": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_2",
+    "parent": "holder-cubes_2",
+    "passenger": "yes"
+  },
+  "text-cube_3": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_3",
+    "parent": "holder-cubes_3",
+    "passenger": "yes"
+  },
+  "text-cube_4": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_4",
+    "parent": "holder-cubes_4",
+    "passenger": "yes"
+  },
+  "text-cube_5": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_5",
+    "parent": "holder-cubes_5",
+    "passenger": "yes"
+  },
+  "text-cube_6": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_6",
+    "parent": "holder-cubes_6",
+    "passenger": "yes"
+  },
+  "text-cube_7": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_7",
+    "parent": "holder-cubes_7",
+    "passenger": "yes"
+  },
+  "text-cube_8": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_8",
+    "parent": "holder-cubes_8",
+    "passenger": "yes"
+  },
+  "text-cube_9": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_9",
+    "parent": "holder-cubes_9",
+    "passenger": "yes"
+  },
+  "text-cube_10": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_10",
+    "parent": "holder-cubes_10",
+    "passenger": "yes"
+  },
+  "text-cube_11": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_11",
+    "parent": "holder-cubes_11",
+    "passenger": "yes"
+  },
+  "text-cube_12": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_12",
+    "parent": "holder-cubes_12",
+    "passenger": "yes"
+  },
+  "text-cube_13": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_13",
+    "parent": "holder-cubes_13",
+    "passenger": "yes"
+  },
+  "text-cube_14": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_14",
+    "parent": "holder-cubes_14",
+    "passenger": "yes"
+  },
+  "text-cube_15": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_15",
+    "parent": "holder-cubes_15",
+    "passenger": "yes"
+  },
+  "text-cube_16": {
+    "image": "https://static.thenounproject.com/png/2052228-200.png",
+    "css": "font-size:25px;color:black;display:flex;justify-content:center;align-items:center;text-align:center;",
+    "width": 25,
+    "height": 25,
+    "x": -5,
+    "y": -5,
+    "z": 154,
+    "id": "text-cube_16",
+    "parent": "holder-cubes_16",
+    "passenger": "yes"
+  },
+  "label_1":
+  {
+    "id": "label_1",
+    "parent": "bowl_1",
+    "text": "Sojourner Family Peace Center\nfamilypeacecenter.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_2":
+  {
+    "id": "label_2",
+    "parent": "bowl_2",
+    "text": "Cathedral Center\ncathedral-center.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_3":
+  {
+    "id": "label_3",
+    "parent": "bowl_3",
+    "text": "Guest House\nwww.guesthouseofmilwaukee.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_4":
+  {
+    "id": "label_4",
+    "parent": "bowl_4",
+    "text": "Repairers of the Breach\nwww.repairers.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_5":
+  {
+    "id": "label_5",
+    "parent": "bowl_5",
+    "text": "Friedens Food Pantry\nfriedenspantry.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_6":
+  {
+    "id": "label_6",
+    "parent": "bowl_6",
+    "text": "Milwaukee Rescue Mission\nmilmission.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_7":
+  {
+    "id": "label_7",
+    "parent": "bowl_7",
+    "text": "MICAH\nmicahmke.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_8":
+  {
+    "id": "label_8",
+    "parent": "bowl_8",
+    "text": "Peace Learning Center\nwww.plcmke.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_9":
+  {
+    "id": "label_9",
+    "parent": "bowl_9",
+    "text": "Neighborhood House\nwww.neighborhoodhousemke.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_10":
+  {
+    "id": "label_10",
+    "parent": "bowl_10",
+    "text": "Courage MKE\nwww.couragemke.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_11":
+  {
+    "id": "label_11",
+    "parent": "bowl_11",
+    "text": "Benedict Center\nwww.benedictcenter.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  },
+  "label_12":
+  {
+    "id": "label_12",
+    "parent": "bowl_12",
+    "text": "Hope House\nwww.hopehousemke.org",
+    "type": "label",
+    "x": -20,
+    "y": 230,
+    "z": 500,
+    "width": 350,
+    "height": 50,
+    "css": "text-align: center; font-size: 22px",
+    "editable": true
+  }
+}
