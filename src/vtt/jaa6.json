@@ -28,6 +28,30 @@
     "css": "text-align: center; font-size: 36px",
     "editable": false
   },
+  "label_instructions":
+  {
+    "id": "label_instructions",
+    "text": "Place beans into the bowls to 'vote' for how you would like to see money distributed to local Milwaukee organizations. Spread them out, or put them all in one if you'd like.\nWhen done, let the Mission & Service Team know by replying to the message that brought you here.\nThank you for your time, and go in peace. :-)",
+    "type": "label",
+    "x": 400,
+    "y": 545,
+    "z": 500,
+    "width": 700,
+    "height": 150,
+    "css": "text-align: center; font-size: 22px",
+    "editable": false
+  },
+  "dove": {
+    "image": "https://convention.mennoniteusa.org/wp-content/uploads/2019/09/blk_dove.png",
+    "id": "dove",
+    "layer": -4,
+    "movable": false,
+    "width": 400,
+    "height": 250,
+    "x": 251,
+    "y": 266,
+    "z": 3
+  },
   "bowl_1":
   {
     "id": "bowl_1",
@@ -415,8 +439,8 @@
 
   "holder-cubes": {
     "type": "holder",
-    "x": 660,
-    "y": 460,
+    "x": 640,
+    "y": 440,
     "z": 11983,
     "id": "holder-cubes",
     "width": 200,
@@ -887,7 +911,7 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_2":
   {
@@ -901,13 +925,13 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_3":
   {
     "id": "label_3",
     "parent": "bowl_3",
-    "text": "Guest House\nwww.guesthouseofmilwaukee.org",
+    "text": "Courage MKE\nwww.couragemke.org",
     "type": "label",
     "x": -20,
     "y": 230,
@@ -915,7 +939,7 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_4":
   {
@@ -929,7 +953,7 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_5":
   {
@@ -943,7 +967,7 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_6":
   {
@@ -957,7 +981,7 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_7":
   {
@@ -971,7 +995,7 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_8":
   {
@@ -985,7 +1009,7 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_9":
   {
@@ -999,13 +1023,13 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_10":
   {
     "id": "label_10",
     "parent": "bowl_10",
-    "text": "Courage MKE\nwww.couragemke.org",
+    "text": "<suggest another organization>",
     "type": "label",
     "x": -20,
     "y": 230,
@@ -1027,7 +1051,7 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   },
   "label_12":
   {
@@ -1041,6 +1065,6 @@
     "width": 350,
     "height": 50,
     "css": "text-align: center; font-size: 22px",
-    "editable": true
+    "editable": false
   }
 }
